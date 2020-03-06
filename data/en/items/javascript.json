@@ -60,18 +60,6 @@
     "tags": ["all", "javascript", "performance"]
   },
   {
-    "title": "Modernizr",
-    "priority": "Low",
-    "description": "If you need to target some specific features you can use a custom Modernizr to add classes in your <html> tag.",
-    "documentation": [
-      {
-        "title": "Customize your Modernizr",
-        "url": "https://modernizr.com/download?setclasses"
-      }
-    ],
-    "tags": ["all", "javascript"]
-  },
-  {
     "title": "ESLint",
     "priority": "High",
     "description": "No errors are flagged by ESLint (based on your configuration or standards rules).",
