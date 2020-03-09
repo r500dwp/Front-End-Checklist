@@ -18,12 +18,6 @@
     "tags": ["all", "performance"]
   },
   {
-    "title": "Minified HTML",
-    "priority": "Medium",
-    "description": "Your HTML is minified.",
-    "tags": ["all", "html", "performance"]
-  },
-  {
     "title": "Lazy loading",
     "priority": "Medium",
     "description": "Images, scripts and CSS need to be lazy loaded to improve the response time of the current page (See details in their respective sections)",
@@ -47,19 +41,6 @@
       {
         "title": "Browser Cookie Limits",
         "url": "http://browsercookielimits.squawky.net/"
-      }
-    ],
-    "tags": ["all", "best practices"]
-  },
-  {
-    "title": "Third party components",
-    "priority": "Medium",
-    "description": "",
-    "detail": "Third party iframes or components relying on external JS (like sharing buttons) are replaced by static components when possible, thus limiting calls to external APIs and keeping your users activity private.",
-    "tools": [
-      {
-        "title": "Simple sharing buttons generator",
-        "url": "https://simplesharingbuttons.com/"
       }
     ],
     "tags": ["all", "best practices"]
